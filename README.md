@@ -1,4 +1,6 @@
-# 1st-Project-
+# 1st-Project
 This is my first repository 
 <br>
-Author:-Sejal Patil
+By Sejal Patil 
+<br>
+I am studying in 3rd Semester 
